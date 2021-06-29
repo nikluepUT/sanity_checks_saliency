@@ -87,11 +87,10 @@ pip install -r requirements.txt
 *Note*: The requirements file has been updated to work under Windows 10/Python 3.7. 
 For GPU-support use tensorflow_gpu-1.15.4 with cuDNN 7.4.2 and CUDA 10.0.
 Unfortunately, Tensorflow versions < 2.0 are incompatible with RTX 3000 series.
-See:
-https://www.tensorflow.org/install/gpu
-https://www.tensorflow.org/install/source_windows#gpu
-https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html
-
+See: <br />
+https://www.tensorflow.org/install/gpu <br />
+https://www.tensorflow.org/install/source_windows#gpu <br />
+https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html 
 
 
 ### Train simple CNNs/MLPs on MNIST/Fashion MNIST
