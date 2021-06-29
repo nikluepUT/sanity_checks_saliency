@@ -108,7 +108,7 @@ python train_mlp_models.py --data mnist --savemodelpath ../models/ --reg --log
 To run the CNN and MLP on MNIST notebooks, you will need to train quick models with the commands above.
 
 ### Inception V3 Checkpoint (Important!)
-To run any of the incetion_v3 notebooks, you will need inception pretrained weights. These are available from [tensorflow](http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz). Alternatively, the weights can be obtained and decompressed as follows:
+To run any of the inception_v3 notebooks, you will need inception pretrained weights. These are available from [tensorflow](http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz). Alternatively, the weights can be obtained and decompressed as follows:
 
 ```
 wget http://download.tensorflow.org/models/inception_v3_2016_08_28.tar.gz
